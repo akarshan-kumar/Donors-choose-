@@ -10,8 +10,21 @@ DonorsChoose.org receives hundreds of thousands of project proposals each year f
 
 The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Type of Model Used](#type-of-model-used)
+- [Workflow](#workflow)
+- [Conclusion](#conclusion)
+
 ## Type of Model Used
-- LSTM
+
+The following machine learning models are utilized in this project:
+
+- Model 1
+- Model 2
+- Model 3 (with and without CountVectorizer)
 
 ## Workflow
 
@@ -29,4 +42,4 @@ The goal of the competition is to predict whether or not a DonorsChoose.org proj
 
 ## Conclusion
 
-The project successfully demonstrates the application of machine learning techniques to predict the approval of DonorsChoose.org project proposals. By leveraging different models and feature engineering techniques, we achieved a test AUC score of up to 0.7663. These models can help in scaling the screening process, increasi
+The project successfully demonstrates the application of machine learning techniques to predict the approval of DonorsChoose.org project proposals. By leveraging different models and feature engineering techniques, we achieved a test AUC score of up to 0.7663. These models can help in scaling the screening process, increasing consistency, and focusing volunteer time on applications that need the most assistance.
